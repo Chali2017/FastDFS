@@ -1,0 +1,5 @@
+com\neo\controller\UploadController.class
+com\neo\fastdfs\FastDFSClient.class
+com\neo\fastdfs\FastDFSFile.class
+com\neo\FastDFSApplication.class
+com\neo\controller\GlobalExceptionHandler.class
