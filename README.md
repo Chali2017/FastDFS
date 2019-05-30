@@ -183,16 +183,16 @@ public class FastDFSClient {
 
 启动项目，访问路径http://127.0.0.1:8080，上传文件到服务器
 
-![1559203713967](C:\Users\ranberchang\AppData\Roaming\Typora\typora-user-images\1559203713967.png)
-
 上图片成功：
 
-![1559203727569](C:\Users\ranberchang\AppData\Roaming\Typora\typora-user-images\1559203727569.png)
+Spring Boot - Upload Status
+You successfully uploaded '企业微信截图_20190311145543.png'
+file path url 'http://192.168.99.100:8080/group1/M00/00/00/wKhjZFzvZ5SAYQysAAB9ZwGWXpU903.png'
 
 查看图片：
 
-![1559203740464](C:\Users\ranberchang\AppData\Roaming\Typora\typora-user-images\1559203740464.png)
+http://192.168.99.100/group1/M00/00/00/wKhjZFzvZ5SAYQysAAB9ZwGWXpU903.png
 
 查看上传文件信息：
 
-![1559203750288](C:\Users\ranberchang\AppData\Roaming\Typora\typora-user-images\1559203750288.png)
+http://127.0.0.1:8080/getFile?groupName=group1&fileName=M00/00/00/wKhjZFzvZ5SAYQysAAB9ZwGWXpU903.png
