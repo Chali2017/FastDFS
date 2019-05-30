@@ -1,8 +1,8 @@
-#### 使用FastFDS搭建文件服务平台
+#### 使用FastDFS搭建文件服务平台
 
 
 
-##### 一、docker搭建单机版fastFDS服务
+##### 一、docker搭建单机版fastDFS服务
 
 ###### 1.1拉取别人已经上传的镜像
 
